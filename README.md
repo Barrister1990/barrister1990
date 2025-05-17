@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-- 💼 Founder of [Apprentice Lab](https://apprenticelab.com) – empowering the next generation of developers and building impactful software.
+- 💼 Co-Founder of [Apprentice Lab](https://apprenticelab.com) – empowering the next generation of developers and building impactful software.
 - 👨‍🏫 Coding Instructor – teaching web & mobile development to students across the world.
 - 🏢 Builder of enterprise-level software for schools, churches, companies, and governments.
 - 🔧 I build **robust full-stack apps** with:
